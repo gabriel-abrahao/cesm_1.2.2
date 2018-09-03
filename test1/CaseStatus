@@ -1,0 +1,2 @@
+create_newcase -case test1 -res f45_g37 -compset X -mach userdefined
+case created 2018-09-02 23:41:15
